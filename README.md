@@ -168,3 +168,18 @@ This is a portfolio demonstration project, not a production-deployed API service
 The project emphasizes reusable automation design, positive and negative test coverage, authentication validation, test isolation, event verification, and explicit checks on AI-generated outputs.
 
 The goal is to demonstrate practical API automation implementation alongside security, maintainability, and risk-based quality considerations.
+
+## About the Author
+
+**Jyothi G.M.**  
+**QA Lead | Software Quality Engineering | Test Automation**
+
+QA professional with 8.5+ years of experience in software testing, quality assurance, test strategy, and QA leadership.
+
+Experienced in Functional testing, API testing, Selenium with Java, Python with Robot Framework, Agile methodologies, and test planning, with a focus on developing practical automation solutions using Python, pytest, and AWS integrations.
+
+This project is part of my technical portfolio, demonstrating hands-on implementation of API automation, reusable testing components, and AI output validation.
+
+**GitHub:** [Jyothi-88](https://github.com/Jyothi-88)
+
+**LinkedIn:** [Jyothi G.M.](https://www.linkedin.com/in/jyothi-aradhya/)
